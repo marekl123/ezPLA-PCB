@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ezPLA footprints")(type KiCad)(uri C:/Projects/KiCAD/ezPLA/Libraries/ezPLA.pretty)(options "")(descr ""))
+)

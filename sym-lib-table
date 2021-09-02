@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name C64_ezPLA)(type Legacy)(uri C:/Projects/KiCAD/ezPLA/Libraries/ezPLA.lib)(options "")(descr ""))
+  (lib (name MyCPLD)(type Legacy)(uri C:/Projects/KiCAD/ezPLA/Libraries/MyCPLD.lib)(options "")(descr ""))
+)
